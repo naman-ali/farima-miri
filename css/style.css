@@ -1,0 +1,28 @@
+.parallax-slider{
+    display: none;
+}
+.hide{
+    display: none !important;
+}
+.hero-content{
+    max-width: 1100px;
+    position: relative;
+}
+.hero-image{
+    position: absolute;
+    right: 100px;
+    /* top: 0; */
+    width: 370px;
+    height: auto;
+    bottom: 0;
+    mix-blend-mode: color;
+}
+.yellow{
+    color: #ffeb3b;
+}
+.blueish{
+    color: #2956e3;
+}
+.lab-p-right{
+    padding-top: 117px;
+}
